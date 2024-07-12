@@ -1,10 +1,10 @@
 # Ds Recruit 
 
 ### Introduce Resolve Project Code Documentation
-The Resolve Project Code contains php and java resolve code template
-
-* [ds-rescruit-php](https://github.com/talk-ming/ds-recruit/php)
-* [ds-rescruit-java](https://github.com/talk-ming/ds-recruit/java)
+这个项目可以用很多我会的语言去实现，可以用PHP、Java、Js、Node.js
+这里我就用PHP、Java去实现
+* [ds-rescruit-php](https://github.com/talk-ming/ds-recruit/tree/master/php)
+* [ds-rescruit-java](https://github.com/talk-ming/ds-recruit/tree/master/java)
 
 
 ### ds-rescruit-php
